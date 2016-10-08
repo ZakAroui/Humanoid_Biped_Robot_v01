@@ -8,9 +8,9 @@ This repo includes the code to have a static walk on a Arduino-controlled Humano
 
 The frame of the Biped robot was built using 1mm aluminum sheets. 
 
-The controller used to control the robot is Arduino Mega, and the code used is found in the repo under the name of *BipedRobotAlgorithm.ino* _emphasize_.
+The controller used to control the robot is Arduino Mega, and the code used is found in the repo under the name of *BipedRobotAlgorithm.ino*.
 
-A future implementation of the robot would include the use of a 3D sensor camera (we used the Kinect 3D sensor camer), in order to get the input of the motion of the robot from the motion of the human body's skeleton and then the robot can make the right move. A trial implementation of the receiving the human skeleton was done using Processing and Kinect. The code that was used in Processing is included in the repo under the name of *Kinect_SkeletonDisplay_winSDK* _emphasize_.
+A future implementation of the robot would include the use of a 3D sensor camera (we used the Kinect 3D sensor camer), in order to get the input of the motion of the robot from the motion of the human body's skeleton and then the robot can make the right move. A trial implementation of the receiving the human skeleton was done using Processing and Kinect. The code that was used in Processing is included in the repo under the name of *Kinect_SkeletonDisplay_winSDK.pde*.
 
 In the first implementation the robot was wired to a laboratory power supply. So the electrical circuit of the robot included the Arduino Mega board, the 8 servo motors, and the power supply.
 A future implementation of the robot may  include the use of battery to supply the energy to the robot.
@@ -21,8 +21,11 @@ you can check the [briefing video][2] to see the implemented biped robot and its
 
 you can also check the simulation of the static walk of the robot in this [simulation-link][1]
 
+### Note
+We would accept all feedback and would soon release our second version with more features :simple_smile:
+
 ## Further resources
-[Briefing video][2] 
+[Briefing video][2] and 
 [Simulation video][1]
 
 
