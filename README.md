@@ -22,7 +22,8 @@ you can check the [briefing video][2] to see the implemented biped robot and its
 you can also check the simulation of the static walk of the robot in this [simulation-link][1]
 
 ### Note
-We would accept all feedback and would soon release our second version with more features :)
+We would accept all feedback and would soon release our second version with more features.
+Thanks for your support :)
 
 ## Further resources
 [Briefing video][2] and 
