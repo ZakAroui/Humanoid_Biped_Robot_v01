@@ -8,4 +8,4 @@ This includes the code to have a static walk on a Android-controlled Humanoid Bi
 
 
 
-# Further information
+## Further information
