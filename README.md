@@ -17,9 +17,9 @@ A future implementation of the robot may  include the use of battery to supply t
 
 For the motion of the robot, eight servo motors were used, because we have eight degrees of freedom in our robot. The servo motors are digital and they provide feedback of their position, which is used in the algorithm to control the motion of the robot.
 
-you can check the [briefing video][2] to see the implemented biped robot and its real motion
+You can check the [briefing video][2] to see the implemented biped robot and its real motion
 
-you can also check the simulation of the static walk of the robot in this [simulation-link][1]
+We used the V-rep software for the robot simulation. You can also check the simulation of the static walk of the robot in this [simulation-link][1]
 
 ### Note
 We would accept all feedback and would soon release our second version with more features.
